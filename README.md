@@ -19,6 +19,10 @@ Di repositori ini dikumpulkan berbagai sesi yang bisa teman-teman tonton secara 
 - [Serverless Compute](2022/serverless-compute.md)
 - [Security, Compliance, and Identity](2022/security-compliance-identity.md)
 
+## Forum Diskusi
+
+Ada pertanyaan seputar topik atau materi? Yuk ke [forum diskusi](https://github.com/awsugid/forum/discussions) untuk bertanya atau berdiskusi seputar AWS dengan pengguna lain. Mari saling berbagi ilmu!
+
 ### Mari Bergabung
 Join dan ikuti media sosial Komunitas AWS User Group Indonesia:
 - [Twitter](https://twitter.com/AWSUserGroupID/)
@@ -26,8 +30,6 @@ Join dan ikuti media sosial Komunitas AWS User Group Indonesia:
 - [Instagram](https://instagram.com/awsugid)
 - [LinkedIn Page](https://www.linkedin.com/company/awsugid)
 - [Facebook Group](https://web.facebook.com/groups/awsindonesia)
-
-
 
 ### Umpan Balik
 Ada sesi menarik yang belum ditambahkan? Bagikan dengan kami!
