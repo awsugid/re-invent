@@ -23,7 +23,7 @@ Di repositori ini dikumpulkan berbagai sesi yang bisa teman-teman tonton secara 
 
 Ada pertanyaan seputar topik atau materi? Yuk ke [forum diskusi](https://github.com/awsugid/forum/discussions) untuk bertanya atau berdiskusi seputar AWS dengan pengguna lain. Mari saling berbagi ilmu!
 
-### Mari Bergabung
+## Mari Bergabung
 Join dan ikuti media sosial Komunitas AWS User Group Indonesia:
 - [Twitter](https://twitter.com/AWSUserGroupID/)
 - [Telegram](https://t.me/AWSUserGroupID)
@@ -31,5 +31,5 @@ Join dan ikuti media sosial Komunitas AWS User Group Indonesia:
 - [LinkedIn Page](https://www.linkedin.com/company/awsugid)
 - [Facebook Group](https://web.facebook.com/groups/awsindonesia)
 
-### Umpan Balik
+## Umpan Balik
 Ada sesi menarik yang belum ditambahkan? Bagikan dengan kami!
